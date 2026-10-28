@@ -42,7 +42,8 @@ const dwi = {
   name: "Dwi Nugroho",
   role: "Full-Stack Web & Mobile Developer",
   based: "Indonesia 🇮🇩",
-  focus: ["Enterprise Web Systems", "Cross-Platform Mobile Apps", "API & Database Design"],
+  focus: ["Enterprise Web Systems", "Healthcare Information Systems (SIMRS)", "Cross-Platform Mobile Apps", "API & Database Design"],
+  backend: ["Node.js / Express", "Laravel"],
   currentlyLearning: ["Cloud Architecture", "Microservices", "Mobile Performance"],
   mindset: "Ship fast, measure everything, optimize relentlessly",
   funFact: "Saya menghabiskan waktu untuk optimasi build & query sebanyak waktu menulis fitur ⚡",
@@ -55,7 +56,8 @@ Saya seorang **Full-Stack Web & Mobile Developer** yang berfokus membangun solus
 |---|---|
 | 🔭 **Sedang dikerjakan** | Sistem web enterprise & aplikasi mobile cross-platform |
 | 🌱 **Sedang dieksplorasi** | Cloud architecture, microservices, optimasi performa mobile |
-| 💬 **Tanya saya tentang** | React / Next.js, Flutter / React Native, RESTful API, arsitektur database |
+| 💬 **Tanya saya tentang** | React / Next.js, Laravel, Flutter / React Native, RESTful API, arsitektur database, SIMRS |
+| 🏥 **Pengalaman domain** | Sistem Informasi Manajemen Rumah Sakit (SIMRS), ERP transport & rental, sistem koperasi |
 | 🤝 **Terbuka untuk** | Kolaborasi, proyek freelance, open source, dan diskusi teknis |
 | ⚡ **Fun fact** | Optimasi build time & query performance sama serunya dengan menulis fitur baru |
 
@@ -86,6 +88,8 @@ Saya seorang **Full-Stack Web & Mobile Developer** yang berfokus membangun solus
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -115,7 +119,7 @@ Saya seorang **Full-Stack Web & Mobile Developer** yang berfokus membangun solus
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,tailwind,nodejs,express,postgres,mysql,firebase,supabase,git,github,postman,figma,vscode,docker&theme=dark&perline=10" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,tailwind,nodejs,express,php,laravel,postgres,mysql,firebase,supabase,git,github,postman,figma,vscode,docker&theme=dark&perline=10" alt="Skill Icons" />
   </a>
 </p>
 
@@ -139,6 +143,7 @@ mindmap
     Backend
       Node.js
       Express
+      Laravel
       REST API
     Database
       PostgreSQL
@@ -199,13 +204,14 @@ Portal **Rapat Anggota Tahunan** untuk koperasi dengan autentikasi anggota dan U
    </td>
    <td width="50%" valign="top">
 
-### 📱 Proyek Mobile Anda
-Tambahkan aplikasi **Flutter / React Native** favorit Anda di sini: fitur utama, tantangan teknis, dan dampaknya.
+### 🏥 SIMRS (Sistem Informasi Manajemen Rumah Sakit)
+Pengembangan **sistem informasi rumah sakit** yang mencakup alur layanan, pengelolaan data, dan pelaporan operasional dengan backend **Laravel**.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🔗 [Lihat Repo](https://github.com/NugrohoDwi0612)
+🔗 *Private / Enterprise project*
 
    </td>
   </tr>
