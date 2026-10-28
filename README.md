@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=220&section=header&text=Dwi%20Nugroho&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=220&section=header&text=Nugroho%20Dwi&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+performant+%26+scalable+systems;React+%2F+Next.js+%E2%9C%A6+Flutter+%2F+React+Native;Clean+code.+Fast+queries.+Smooth+UX.;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
@@ -38,11 +38,11 @@
 ## 👨‍💻 Tentang Saya
 
 ```ts
-const dwi = {
-  name: "Dwi Nugroho",
+const nugroho = {
+  name: "Nugroho Dwi",
   role: "Full-Stack Web & Mobile Developer",
   based: "Indonesia 🇮🇩",
-  focus: ["Enterprise Web Systems", "Healthcare Information Systems (SIMRS)", "Cross-Platform Mobile Apps", "API & Database Design"],
+  focus: ["Enterprise Web Systems", "ERP (Manufaktur, Transport)", "CMMS / Work Order", "Healthcare Systems (SIMRS)", "Point of Sale (Kasir)", "Cross-Platform Mobile Apps", "API & Database Design"],
   backend: ["Node.js / Express", "Laravel"],
   currentlyLearning: ["Cloud Architecture", "Microservices", "Mobile Performance"],
   mindset: "Ship fast, measure everything, optimize relentlessly",
@@ -56,8 +56,8 @@ Saya seorang **Full-Stack Web & Mobile Developer** yang berfokus membangun solus
 |---|---|
 | 🔭 **Sedang dikerjakan** | Sistem web enterprise & aplikasi mobile cross-platform |
 | 🌱 **Sedang dieksplorasi** | Cloud architecture, microservices, optimasi performa mobile |
-| 💬 **Tanya saya tentang** | React / Next.js, Laravel, Flutter / React Native, RESTful API, arsitektur database, SIMRS |
-| 🏥 **Pengalaman domain** | Sistem Informasi Manajemen Rumah Sakit (SIMRS), ERP transport & rental, sistem koperasi |
+| 💬 **Tanya saya tentang** | React / Next.js, Laravel, Flutter / React Native, RESTful API, arsitektur database, ERP, CMMS, SIMRS, POS |
+| 🏭 **Pengalaman domain** | ERP manufaktur & transport/rental, CMMS / Work Order, SIMRS (rumah sakit), sistem kasir (POS), sistem koperasi |
 | 🤝 **Terbuka untuk** | Kolaborasi, proyek freelance, open source, dan diskusi teknis |
 | ⚡ **Fun fact** | Optimasi build time & query performance sama serunya dengan menulis fitur baru |
 
@@ -131,7 +131,7 @@ Saya seorang **Full-Stack Web & Mobile Developer** yang berfokus membangun solus
 
 ```mermaid
 mindmap
-  root((Dwi Nugroho))
+  root((Nugroho Dwi))
     Web
       Next.js
       React
@@ -212,6 +212,53 @@ Pengembangan **sistem informasi rumah sakit** yang mencakup alur layanan, pengel
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 🔗 *Private / Enterprise project*
+
+   </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏭 ERP Manufaktur
+Sistem **ERP untuk industri manufaktur** yang mengintegrasikan perencanaan produksi, inventori, pembelian, dan pelaporan dalam satu alur kerja terpadu.
+
+![Web](https://img.shields.io/badge/Enterprise%20Web-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)
+![Database](https://img.shields.io/badge/Relational%20DB-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+🔗 *Private / Enterprise project*
+
+   </td>
+   <td width="50%" valign="top">
+
+### 🔧 CMMS / Work Order
+Sistem **pemeliharaan aset (CMMS)** dengan manajemen **work order**: pelaporan kerusakan, penjadwalan perawatan, penugasan teknisi, dan pelacakan status.
+
+![Web](https://img.shields.io/badge/Maintenance%20System-F59E0B?style=flat-square&logo=hackthebox&logoColor=white)
+![Workflow](https://img.shields.io/badge/Workflow-6a11cb?style=flat-square&logo=githubactions&logoColor=white)
+
+🔗 *Private / Enterprise project*
+
+   </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧾 Sistem Kasir (POS)
+Aplikasi **point of sale** untuk transaksi penjualan, manajemen produk dan stok, serta laporan harian yang cepat dan mudah dipakai kasir.
+
+![POS](https://img.shields.io/badge/Point%20of%20Sale-10B981?style=flat-square&logo=shopify&logoColor=white)
+![Reports](https://img.shields.io/badge/Sales%20Reports-2575fc?style=flat-square&logo=chartdotjs&logoColor=white)
+
+🔗 *Private / Client project*
+
+   </td>
+   <td width="50%" valign="top">
+
+### 📂 Proyek Lainnya
+Masih banyak eksperimen, template, dan proyek sampingan lain di repositori GitHub saya.
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+🔗 [Jelajahi Repositori](https://github.com/NugrohoDwi0612?tab=repositories)
 
    </td>
   </tr>
